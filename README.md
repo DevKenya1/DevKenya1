@@ -84,11 +84,11 @@ Currently, I’m deepening my skills in Advanced Python, PHP API Integration, an
 ## 🤝 **Let’s Connect**
 
 <div>
-  <a href="#"><img height="30" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img height="30" src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="#"><img height="30" src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="#"><img height="30" src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="#"><img height="30" src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/emmanuel-magachi-jesse-385011298/"><img height="30" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/EmmanuelMJesse"><img height="30" src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.instagram.com/_emmanuelmjesse?igsh=ZnV6Z3p4N3RzcGZz"><img height="30" src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.facebook.com/share/1BQ7ZMZJAz/"><img height="30" src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://github.com/DevKenya1"><img height="30" src="https://skillicons.dev/icons?i=github" /></a>
   <a href="#"><img height="30" src="https://skillicons.dev/icons?i=behance" /></a>
   <a href="#"><img height="30" src="https://skillicons.dev/icons?i=tiktok" /></a>
 </div>
