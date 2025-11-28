@@ -7,8 +7,9 @@ If you want it customized with your real links and stats, just tell me!
 # 🌟 **Hi, I'm Emmanuel Jesse — Full-Stack Developer | Creative Technologist**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;API+Integrator+%7C+Python+%26+PHP;React+%7C+Node.js+%7C+MongoDB;Where+Creativity+Meets+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Web+Development+%26+Design;Software+Solutions+Architect;Python+%26+PHP+API+Integration;React+%7C+Node.js+%7C+MongoDB;Where+Creativity+Meets+Technology" />
 </p>
+
 
 ---
 
