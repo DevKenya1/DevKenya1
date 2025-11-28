@@ -1,5 +1,3 @@
----
-
 # 🌟 **Hi, I'm Emmanuel Jesse — Full-Stack Developer | Creative Technologist**
 
 <p align="center">
@@ -66,7 +64,7 @@ Currently, I’m deepening my skills in Advanced Python, PHP API Integration, an
 
 ---
 
-💼 Projects I’ve Worked On
+## 💼 Projects I’ve Worked On
 
 🔹 SMS Automation – Automated messaging system built using Python
 
