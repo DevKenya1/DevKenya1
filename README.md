@@ -27,8 +27,9 @@ If you want it customized with your real links and stats, just tell me!
 ### 🌐 **Frontend**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,angular,bootstrap,tailwind,scss,sass,materialui,redux,vite,webpack,threejs" />
 </div>
+
 
 ### ⚙️ **Backend**
 
