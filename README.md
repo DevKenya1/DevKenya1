@@ -90,7 +90,7 @@ Currently, I’m deepening my skills in Advanced Python, PHP API Integration, an
 
 
 </div>
-
+📍 Nairobi, Kenya — Open to remote & on-site opportunities
 
 ---
 
