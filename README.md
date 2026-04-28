@@ -85,7 +85,7 @@ Currently, I’m deepening my skills in Advanced Python, PHP API Integration, an
 
 <div>
   <a href="https://www.linkedin.com/in/emmanuel-magachi-jesse/"><img height="30" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:codetechhub1@gmail.com"><img height="30" src="https://skillicons.dev/icons?i=mail" /></a>
+  <a href="mailto:codetechhub1@gmail.com"><img height="30" src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/DevKenya1"><img height="30" src="https://skillicons.dev/icons?i=github" /></a>
 
 
